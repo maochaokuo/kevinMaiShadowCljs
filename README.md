@@ -43,3 +43,12 @@ now in chrome developer tool
 2. check Console enable custom formatters
 3. then close the setting, and fresh
 4. will see neater output in developer tool console
+
+## step8
+if something wrong
+```
+npm install react react-dom
+```
+
+# at the end 
+Kevin Mai suggest Helix with reagent
