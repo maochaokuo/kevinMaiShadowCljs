@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/maochaokuo/kevinMaiShadowCljs.git",
   "author": "Thomas Mao <tm1813@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "shadow-cljs": "^2.14.2"
+  },
+  "scripts": {
+    "start": "shadow-cljs watch app"
+  }
 }
