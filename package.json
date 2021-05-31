@@ -1,0 +1,8 @@
+{
+  "name": "kevinMaiShadowCljs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maochaokuo/kevinMaiShadowCljs.git",
+  "author": "Thomas Mao <tm1813@gmail.com>",
+  "license": "MIT"
+}

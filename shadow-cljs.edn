@@ -1,0 +1,5 @@
+{:source-paths ["src/cljs"]
+ :nrepl {:port 9000}
+ :dependencies [[cider/cider-nrepl "0.21.0"]]
+ :builds {}
+}
